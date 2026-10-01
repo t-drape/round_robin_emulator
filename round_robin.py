@@ -51,15 +51,25 @@ class RoundRobinEmulator:
 
 # threads = [Thread("T1",2), Thread("T2", 4), Thread("T3", 1), Thread("T4", 7)]
 
+"""
 # Remove the quotes to run this program. This is the first test as described by the assignment.
-threads = [Thread("T1", 1), Thread("T2", 3), Thread("T3", 5), Thread("T4", 7)]
+threads = [Thread("T1", 2), Thread("T2", 4), Thread("T3", 1), Thread("T4", 7)]
+os_emulator = RoundRobinEmulator(3, threads)
+os_emulator.run_frames(23)
+"""
+
+
+"""
+# Remove the quotes to run this program. This is the second test as described by the assignment.
+threads = [Thread("T1", 3), Thread("T2", 5), Thread("T3", 7)]
+os_emulator = RoundRobinEmulator(4, threads)
+os_emulator.run_frames(20)
+"""
+
+
+# Remove the quotes to run this program. This is the third test as described by the assignment.
+threads = [Thread("T1", 3), Thread("T2", 5), Thread("T3", 7)]
 os_emulator = RoundRobinEmulator(2, threads)
 os_emulator.run_frames(20)
 
-"""
-Remove the quotes to run this program. This is the second test as described by the assignment.
-threads = [Thread("T1", 3), Thread("T2", 5), Thread("T3", 7)]
-os_emulator = RoundRobinEmulator(2, threads)
-os_emulator.run_frames(23)
-"""
 
