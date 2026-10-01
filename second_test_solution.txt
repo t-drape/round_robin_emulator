@@ -1,0 +1,438 @@
+Running frame #0
+
+The thread: T1, has 2 frames left
+Thread Queue:
+T1
+T2
+T3
+T4
+Now, the thread: T1, has 1 frames left
+
+
+Running frame #1
+
+The thread: T1, has 1 frames left
+Thread Queue:
+T1
+T2
+T3
+T4
+Now, the thread: T1, has 0 frames left
+
+
+Running frame #2
+
+The thread: T2, has 4 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 3 frames left
+
+
+Running frame #3
+
+The thread: T2, has 3 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 2 frames left
+
+
+Running frame #4
+
+The thread: T2, has 2 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 1 frames left
+
+
+Running frame #5
+
+The thread: T2, has 1 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 0 frames left
+
+
+Running frame #6
+
+The thread: T3, has 5 frames left
+Thread Queue:
+T3
+T4
+T1
+T2
+Now, the thread: T3, has 4 frames left
+
+
+Running frame #7
+
+The thread: T3, has 4 frames left
+Thread Queue:
+T3
+T4
+T1
+T2
+Now, the thread: T3, has 3 frames left
+
+
+Running frame #8
+
+The thread: T3, has 3 frames left
+Thread Queue:
+T3
+T4
+T1
+T2
+Now, the thread: T3, has 2 frames left
+
+
+Running frame #9
+
+The thread: T3, has 2 frames left
+Thread Queue:
+T3
+T4
+T1
+T2
+Now, the thread: T3, has 1 frames left
+
+
+Running frame #10
+
+The thread: T4, has 9 frames left
+Thread Queue:
+T4
+T1
+T2
+T3
+Now, the thread: T4, has 8 frames left
+
+
+Running frame #11
+
+The thread: T4, has 8 frames left
+Thread Queue:
+T4
+T1
+T2
+T3
+Now, the thread: T4, has 7 frames left
+
+
+Running frame #12
+
+The thread: T4, has 7 frames left
+Thread Queue:
+T4
+T1
+T2
+T3
+Now, the thread: T4, has 6 frames left
+
+
+Running frame #13
+
+The thread: T4, has 6 frames left
+Thread Queue:
+T4
+T1
+T2
+T3
+Now, the thread: T4, has 5 frames left
+
+
+Running frame #14
+
+The thread: T1, has 2 frames left
+Thread Queue:
+T1
+T2
+T3
+T4
+Now, the thread: T1, has 1 frames left
+
+
+Running frame #15
+
+The thread: T1, has 1 frames left
+Thread Queue:
+T1
+T2
+T3
+T4
+Now, the thread: T1, has 0 frames left
+
+
+Running frame #16
+
+The thread: T2, has 4 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 3 frames left
+
+
+Running frame #17
+
+The thread: T2, has 3 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 2 frames left
+
+
+Running frame #18
+
+The thread: T2, has 2 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 1 frames left
+
+
+Running frame #19
+
+The thread: T2, has 1 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 0 frames left
+
+
+Running frame #20
+
+The thread: T3, has 1 frames left
+Thread Queue:
+T3
+T4
+T1
+T2
+Now, the thread: T3, has 0 frames left
+
+
+Running frame #21
+
+The thread: T4, has 5 frames left
+Thread Queue:
+T4
+T1
+T2
+T3
+Now, the thread: T4, has 4 frames left
+
+
+Running frame #22
+
+The thread: T4, has 4 frames left
+Thread Queue:
+T4
+T1
+T2
+T3
+Now, the thread: T4, has 3 frames left
+
+
+Running frame #23
+
+The thread: T4, has 3 frames left
+Thread Queue:
+T4
+T1
+T2
+T3
+Now, the thread: T4, has 2 frames left
+
+
+Running frame #24
+
+The thread: T4, has 2 frames left
+Thread Queue:
+T4
+T1
+T2
+T3
+Now, the thread: T4, has 1 frames left
+
+
+Running frame #25
+
+The thread: T1, has 2 frames left
+Thread Queue:
+T1
+T2
+T3
+T4
+Now, the thread: T1, has 1 frames left
+
+
+Running frame #26
+
+The thread: T1, has 1 frames left
+Thread Queue:
+T1
+T2
+T3
+T4
+Now, the thread: T1, has 0 frames left
+
+
+Running frame #27
+
+The thread: T2, has 4 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 3 frames left
+
+
+Running frame #28
+
+The thread: T2, has 3 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 2 frames left
+
+
+Running frame #29
+
+The thread: T2, has 2 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 1 frames left
+
+
+Running frame #30
+
+The thread: T2, has 1 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 0 frames left
+
+
+Running frame #31
+
+The thread: T3, has 5 frames left
+Thread Queue:
+T3
+T4
+T1
+T2
+Now, the thread: T3, has 4 frames left
+
+
+Running frame #32
+
+The thread: T3, has 4 frames left
+Thread Queue:
+T3
+T4
+T1
+T2
+Now, the thread: T3, has 3 frames left
+
+
+Running frame #33
+
+The thread: T3, has 3 frames left
+Thread Queue:
+T3
+T4
+T1
+T2
+Now, the thread: T3, has 2 frames left
+
+
+Running frame #34
+
+The thread: T3, has 2 frames left
+Thread Queue:
+T3
+T4
+T1
+T2
+Now, the thread: T3, has 1 frames left
+
+
+Running frame #35
+
+The thread: T4, has 1 frames left
+Thread Queue:
+T4
+T1
+T2
+T3
+Now, the thread: T4, has 0 frames left
+
+
+Running frame #36
+
+The thread: T1, has 2 frames left
+Thread Queue:
+T1
+T2
+T3
+T4
+Now, the thread: T1, has 1 frames left
+
+
+Running frame #37
+
+The thread: T1, has 1 frames left
+Thread Queue:
+T1
+T2
+T3
+T4
+Now, the thread: T1, has 0 frames left
+
+
+Running frame #38
+
+The thread: T2, has 4 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 3 frames left
+
+
+Running frame #39
+
+The thread: T2, has 3 frames left
+Thread Queue:
+T2
+T3
+T4
+T1
+Now, the thread: T2, has 2 frames left
